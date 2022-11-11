@@ -1,0 +1,135 @@
+{
+  "index.html": {
+    "file": "file/index.c8655ba1.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js"
+    ],
+    "dynamicImports": [
+      "src/pages/Landing.vue",
+      "src/pages/Vote.vue",
+      "src/pages/Admin.vue",
+      "src/pages/admin/CalonKetuaUmum.vue",
+      "src/pages/admin/CalonFormatur.vue",
+      "src/pages/admin/TokenPemilihan.vue",
+      "src/pages/admin/PerhitunganLangsung.vue",
+      "src/pages/admin/PengaturanAkun.vue"
+    ],
+    "css": [
+      "file/index.1a19bd3c.css"
+    ],
+    "assets": [
+      "file/footer-brand.8968f0c2.png"
+    ]
+  },
+  "_vendor.5bcef8ec.js": {
+    "file": "file/vendor.5bcef8ec.js"
+  },
+  "src/pages/Landing.vue": {
+    "file": "file/Landing.87c07618.js",
+    "src": "src/pages/Landing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "_kandidat-layout.2b79f2d0.js",
+      "index.html"
+    ],
+    "css": [
+      "file/Landing.a4731024.css"
+    ],
+    "assets": [
+      "file/pengurus.4f541a81.png",
+      "file/theme-background.81dbe8f0.png"
+    ]
+  },
+  "_kandidat-layout.2b79f2d0.js": {
+    "file": "file/kandidat-layout.2b79f2d0.js",
+    "assets": [
+      "file/kandidat-layout.d0816525.png"
+    ]
+  },
+  "src/pages/Vote.vue": {
+    "file": "file/Vote.075ce4a9.js",
+    "src": "src/pages/Vote.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "_kandidat-layout.2b79f2d0.js",
+      "index.html"
+    ],
+    "css": [
+      "file/Vote.91e0ca19.css"
+    ],
+    "assets": [
+      "file/imm-bangkalan.25c6fc19.png",
+      "file/musycab-XIII.ce89112c.png",
+      "file/basmalah.3d4545ea.png",
+      "file/theme-background.81dbe8f0.png"
+    ]
+  },
+  "src/pages/Admin.vue": {
+    "file": "file/Admin.dc37ee97.js",
+    "src": "src/pages/Admin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "index.html"
+    ],
+    "css": [
+      "file/Admin.dc8d32f2.css"
+    ]
+  },
+  "src/pages/admin/CalonKetuaUmum.vue": {
+    "file": "file/CalonKetuaUmum.293d981c.js",
+    "src": "src/pages/admin/CalonKetuaUmum.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "index.html"
+    ],
+    "css": [
+      "file/CalonKetuaUmum.a05e92cf.css"
+    ]
+  },
+  "src/pages/admin/CalonFormatur.vue": {
+    "file": "file/CalonFormatur.389dc053.js",
+    "src": "src/pages/admin/CalonFormatur.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "index.html"
+    ],
+    "css": [
+      "file/CalonFormatur.5d9738f9.css"
+    ]
+  },
+  "src/pages/admin/TokenPemilihan.vue": {
+    "file": "file/TokenPemilihan.374922a4.js",
+    "src": "src/pages/admin/TokenPemilihan.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js"
+    ]
+  },
+  "src/pages/admin/PerhitunganLangsung.vue": {
+    "file": "file/PerhitunganLangsung.531685db.js",
+    "src": "src/pages/admin/PerhitunganLangsung.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js",
+      "index.html"
+    ],
+    "css": [
+      "file/PerhitunganLangsung.608c784e.css"
+    ]
+  },
+  "src/pages/admin/PengaturanAkun.vue": {
+    "file": "file/PengaturanAkun.b64863d1.js",
+    "src": "src/pages/admin/PengaturanAkun.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5bcef8ec.js"
+    ]
+  }
+}
