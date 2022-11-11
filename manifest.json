@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "file/index.64cf31c3.js",
+    "file": "file/index.6a2fdf3f.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -27,7 +27,7 @@
     "file": "file/vendor.5bcef8ec.js"
   },
   "src/pages/Landing.vue": {
-    "file": "file/Landing.8411d43a.js",
+    "file": "file/Landing.6490d7ed.js",
     "src": "src/pages/Landing.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -50,7 +50,7 @@
     ]
   },
   "src/pages/Vote.vue": {
-    "file": "file/Vote.bc7cfbed.js",
+    "file": "file/Vote.c1e2c9ce.js",
     "src": "src/pages/Vote.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -69,7 +69,7 @@
     ]
   },
   "src/pages/Admin.vue": {
-    "file": "file/Admin.539d129c.js",
+    "file": "file/Admin.ac2454f4.js",
     "src": "src/pages/Admin.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -81,7 +81,7 @@
     ]
   },
   "src/pages/admin/CalonKetuaUmum.vue": {
-    "file": "file/CalonKetuaUmum.eb68d0e0.js",
+    "file": "file/CalonKetuaUmum.34f6c77c.js",
     "src": "src/pages/admin/CalonKetuaUmum.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -93,7 +93,7 @@
     ]
   },
   "src/pages/admin/CalonFormatur.vue": {
-    "file": "file/CalonFormatur.21c76883.js",
+    "file": "file/CalonFormatur.e35d65fc.js",
     "src": "src/pages/admin/CalonFormatur.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -113,7 +113,7 @@
     ]
   },
   "src/pages/admin/PerhitunganLangsung.vue": {
-    "file": "file/PerhitunganLangsung.459e1820.js",
+    "file": "file/PerhitunganLangsung.290e09a4.js",
     "src": "src/pages/admin/PerhitunganLangsung.vue",
     "isDynamicEntry": true,
     "imports": [
