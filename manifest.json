@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "file/index.c8655ba1.js",
+    "file": "file/index.85bea042.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -27,7 +27,7 @@
     "file": "file/vendor.5bcef8ec.js"
   },
   "src/pages/Landing.vue": {
-    "file": "file/Landing.87c07618.js",
+    "file": "file/Landing.0d7f875e.js",
     "src": "src/pages/Landing.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -50,7 +50,7 @@
     ]
   },
   "src/pages/Vote.vue": {
-    "file": "file/Vote.075ce4a9.js",
+    "file": "file/Vote.29bda521.js",
     "src": "src/pages/Vote.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -59,7 +59,7 @@
       "index.html"
     ],
     "css": [
-      "file/Vote.91e0ca19.css"
+      "file/Vote.331d909f.css"
     ],
     "assets": [
       "file/imm-bangkalan.25c6fc19.png",
@@ -69,7 +69,7 @@
     ]
   },
   "src/pages/Admin.vue": {
-    "file": "file/Admin.dc37ee97.js",
+    "file": "file/Admin.895f888a.js",
     "src": "src/pages/Admin.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -81,7 +81,7 @@
     ]
   },
   "src/pages/admin/CalonKetuaUmum.vue": {
-    "file": "file/CalonKetuaUmum.293d981c.js",
+    "file": "file/CalonKetuaUmum.a5eaf64b.js",
     "src": "src/pages/admin/CalonKetuaUmum.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -93,7 +93,7 @@
     ]
   },
   "src/pages/admin/CalonFormatur.vue": {
-    "file": "file/CalonFormatur.389dc053.js",
+    "file": "file/CalonFormatur.e3e171d6.js",
     "src": "src/pages/admin/CalonFormatur.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -113,7 +113,7 @@
     ]
   },
   "src/pages/admin/PerhitunganLangsung.vue": {
-    "file": "file/PerhitunganLangsung.531685db.js",
+    "file": "file/PerhitunganLangsung.f05ee4ec.js",
     "src": "src/pages/admin/PerhitunganLangsung.vue",
     "isDynamicEntry": true,
     "imports": [
