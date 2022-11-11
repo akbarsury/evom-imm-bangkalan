@@ -60,5 +60,5 @@
   }
 
   /* if current document is 404 page page, redirect to index.html otherwise resolve */
-  document.title === "404" ? redirect() : resolve();
+  document.title === "404 Page Not Found" ? redirect() : resolve();
 })(window.location, window.projectPages || true);
