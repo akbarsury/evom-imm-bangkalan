@@ -1,135 +1,132 @@
 {
-  "index.html": {
-    "file": "file/index.fc807a3c.js",
-    "src": "index.html",
-    "isEntry": true,
+  "_vendor.441eeb9a.js": {
+    "file": "file/vendor.441eeb9a.js"
+  },
+  "_main.851a0eec.js": {
+    "file": "file/main.851a0eec.js",
     "imports": [
-      "_vendor.5bcef8ec.js"
+      "_vendor.441eeb9a.js"
     ],
     "dynamicImports": [
       "src/pages/Landing.vue",
-      "src/pages/Vote.vue",
+      "src/pages/auth/Login.vue",
       "src/pages/Admin.vue",
-      "src/pages/admin/CalonKetuaUmum.vue",
-      "src/pages/admin/CalonFormatur.vue",
-      "src/pages/admin/TokenPemilihan.vue",
-      "src/pages/admin/PerhitunganLangsung.vue",
-      "src/pages/admin/PengaturanAkun.vue"
+      "src/pages/admin/InputDataCandidate.vue",
+      "src/pages/admin/Candidate.vue",
+      "src/pages/admin/Delegation.vue",
+      "src/pages/admin/ChairmanCandidate.vue",
+      "src/pages/admin/FormaturCandidate.vue",
+      "src/pages/admin/ElectionToken.vue",
+      "src/pages/admin/AccountSetting.vue"
     ],
     "css": [
-      "file/index.1a19bd3c.css"
+      "file/main.51fb440a.css"
     ],
     "assets": [
       "file/footer-brand.8968f0c2.png"
     ]
   },
-  "_vendor.5bcef8ec.js": {
-    "file": "file/vendor.5bcef8ec.js"
-  },
   "src/pages/Landing.vue": {
-    "file": "file/Landing.919db1dd.js",
+    "file": "file/Landing.1da78597.js",
     "src": "src/pages/Landing.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "_kandidat-layout.2b79f2d0.js",
-      "index.html"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ],
     "css": [
-      "file/Landing.a3c477e5.css"
+      "file/Landing.81d12058.css"
     ],
     "assets": [
       "file/pengurus.4f541a81.png",
+      "file/kandidat-layout.d0816525.png",
       "file/theme-background.81dbe8f0.png"
     ]
   },
-  "_kandidat-layout.2b79f2d0.js": {
-    "file": "file/kandidat-layout.2b79f2d0.js",
-    "assets": [
-      "file/kandidat-layout.d0816525.png"
-    ]
-  },
-  "src/pages/Vote.vue": {
-    "file": "file/Vote.330f107a.js",
-    "src": "src/pages/Vote.vue",
+  "src/pages/auth/Login.vue": {
+    "file": "file/Login.7410ee76.js",
+    "src": "src/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "_kandidat-layout.2b79f2d0.js",
-      "index.html"
-    ],
-    "css": [
-      "file/Vote.08f5a454.css"
-    ],
-    "assets": [
-      "file/imm-bangkalan.25c6fc19.png",
-      "file/musycab-XIII.ce89112c.png",
-      "file/basmalah.3d4545ea.png",
-      "file/theme-background.81dbe8f0.png"
+      "_vendor.441eeb9a.js",
+      "_main.851a0eec.js"
     ]
   },
   "src/pages/Admin.vue": {
-    "file": "file/Admin.49737d00.js",
+    "file": "file/Admin.6e185dd6.js",
     "src": "src/pages/Admin.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "index.html"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ],
     "css": [
-      "file/Admin.dc8d32f2.css"
+      "file/Admin.ab4ac3f6.css"
     ]
   },
-  "src/pages/admin/CalonKetuaUmum.vue": {
-    "file": "file/CalonKetuaUmum.ddfaaacd.js",
-    "src": "src/pages/admin/CalonKetuaUmum.vue",
+  "src/pages/admin/InputDataCandidate.vue": {
+    "file": "file/InputDataCandidate.4d2a9281.js",
+    "src": "src/pages/admin/InputDataCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "index.html"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ],
     "css": [
-      "file/CalonKetuaUmum.a05e92cf.css"
+      "file/InputDataCandidate.bbf92145.css"
     ]
   },
-  "src/pages/admin/CalonFormatur.vue": {
-    "file": "file/CalonFormatur.d90e4477.js",
-    "src": "src/pages/admin/CalonFormatur.vue",
+  "src/pages/admin/Candidate.vue": {
+    "file": "file/Candidate.f3d1546a.js",
+    "src": "src/pages/admin/Candidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "index.html"
-    ],
-    "css": [
-      "file/CalonFormatur.5d9738f9.css"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ]
   },
-  "src/pages/admin/TokenPemilihan.vue": {
-    "file": "file/TokenPemilihan.374922a4.js",
-    "src": "src/pages/admin/TokenPemilihan.vue",
+  "src/pages/admin/Delegation.vue": {
+    "file": "file/Delegation.22468a94.js",
+    "src": "src/pages/admin/Delegation.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ]
   },
-  "src/pages/admin/PerhitunganLangsung.vue": {
-    "file": "file/PerhitunganLangsung.c71a3f5e.js",
-    "src": "src/pages/admin/PerhitunganLangsung.vue",
+  "src/pages/admin/ChairmanCandidate.vue": {
+    "file": "file/ChairmanCandidate.7f577783.js",
+    "src": "src/pages/admin/ChairmanCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js",
-      "index.html"
-    ],
-    "css": [
-      "file/PerhitunganLangsung.608c784e.css"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
     ]
   },
-  "src/pages/admin/PengaturanAkun.vue": {
-    "file": "file/PengaturanAkun.b64863d1.js",
-    "src": "src/pages/admin/PengaturanAkun.vue",
+  "src/pages/admin/FormaturCandidate.vue": {
+    "file": "file/FormaturCandidate.be5cbf38.js",
+    "src": "src/pages/admin/FormaturCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.5bcef8ec.js"
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
+    ]
+  },
+  "src/pages/admin/ElectionToken.vue": {
+    "file": "file/ElectionToken.6e8be998.js",
+    "src": "src/pages/admin/ElectionToken.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_main.851a0eec.js",
+      "_vendor.441eeb9a.js"
+    ]
+  },
+  "src/pages/admin/AccountSetting.vue": {
+    "file": "file/AccountSetting.16fc6410.js",
+    "src": "src/pages/admin/AccountSetting.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.441eeb9a.js"
     ]
   }
 }
