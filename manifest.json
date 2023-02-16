@@ -1,11 +1,11 @@
 {
-  "_vendor.690f3783.js": {
-    "file": "file/vendor.690f3783.js"
+  "_vendor.45e48e1f.js": {
+    "file": "file/vendor.45e48e1f.js"
   },
-  "_main.110687ab.js": {
-    "file": "file/main.110687ab.js",
+  "_main.3cbfb2ef.js": {
+    "file": "file/main.3cbfb2ef.js",
     "imports": [
-      "_vendor.690f3783.js"
+      "_vendor.45e48e1f.js"
     ],
     "dynamicImports": [
       "src/pages/Landing.vue",
@@ -27,12 +27,12 @@
     ]
   },
   "src/pages/Landing.vue": {
-    "file": "file/Landing.58ece413.js",
+    "file": "file/Landing.f64fa0bd.js",
     "src": "src/pages/Landing.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ],
     "css": [
       "file/Landing.81d12058.css"
@@ -44,89 +44,89 @@
     ]
   },
   "src/pages/auth/Login.vue": {
-    "file": "file/Login.381eb79c.js",
+    "file": "file/Login.b91323fb.js",
     "src": "src/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.690f3783.js",
-      "_main.110687ab.js"
+      "_vendor.45e48e1f.js",
+      "_main.3cbfb2ef.js"
     ]
   },
   "src/pages/Admin.vue": {
-    "file": "file/Admin.7d238b77.js",
+    "file": "file/Admin.21e72d7e.js",
     "src": "src/pages/Admin.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ],
     "css": [
       "file/Admin.ab4ac3f6.css"
     ]
   },
   "src/pages/admin/InputDataCandidate.vue": {
-    "file": "file/InputDataCandidate.18d8d20f.js",
+    "file": "file/InputDataCandidate.318906cc.js",
     "src": "src/pages/admin/InputDataCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ],
     "css": [
       "file/InputDataCandidate.a728da34.css"
     ]
   },
   "src/pages/admin/Candidate.vue": {
-    "file": "file/Candidate.500f6b6d.js",
+    "file": "file/Candidate.0507ae79.js",
     "src": "src/pages/admin/Candidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/Delegation.vue": {
-    "file": "file/Delegation.8d75c30a.js",
+    "file": "file/Delegation.7fb452ad.js",
     "src": "src/pages/admin/Delegation.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/ChairmanCandidate.vue": {
-    "file": "file/ChairmanCandidate.b21c9baa.js",
+    "file": "file/ChairmanCandidate.c7d19ad2.js",
     "src": "src/pages/admin/ChairmanCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/FormaturCandidate.vue": {
-    "file": "file/FormaturCandidate.116c3e6f.js",
+    "file": "file/FormaturCandidate.be984478.js",
     "src": "src/pages/admin/FormaturCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/ElectionToken.vue": {
-    "file": "file/ElectionToken.0112c239.js",
+    "file": "file/ElectionToken.89d061fc.js",
     "src": "src/pages/admin/ElectionToken.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.110687ab.js",
-      "_vendor.690f3783.js"
+      "_main.3cbfb2ef.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/AccountSetting.vue": {
-    "file": "file/AccountSetting.4dbf4851.js",
+    "file": "file/AccountSetting.2d2b84cf.js",
     "src": "src/pages/admin/AccountSetting.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.690f3783.js"
+      "_vendor.45e48e1f.js"
     ]
   }
 }
