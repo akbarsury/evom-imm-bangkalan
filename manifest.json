@@ -2,8 +2,8 @@
   "_vendor.45e48e1f.js": {
     "file": "file/vendor.45e48e1f.js"
   },
-  "_main.3cbfb2ef.js": {
-    "file": "file/main.3cbfb2ef.js",
+  "_main.dddc2fa3.js": {
+    "file": "file/main.dddc2fa3.js",
     "imports": [
       "_vendor.45e48e1f.js"
     ],
@@ -14,8 +14,8 @@
       "src/pages/admin/InputDataCandidate.vue",
       "src/pages/admin/Candidate.vue",
       "src/pages/admin/Delegation.vue",
-      "src/pages/admin/ChairmanCandidate.vue",
-      "src/pages/admin/FormaturCandidate.vue",
+      "src/pages/admin/InputDataParticipant.vue",
+      "src/pages/admin/Participant.vue",
       "src/pages/admin/ElectionToken.vue",
       "src/pages/admin/AccountSetting.vue"
     ],
@@ -27,11 +27,11 @@
     ]
   },
   "src/pages/Landing.vue": {
-    "file": "file/Landing.f64fa0bd.js",
+    "file": "file/Landing.2d0993e8.js",
     "src": "src/pages/Landing.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ],
     "css": [
@@ -44,80 +44,92 @@
     ]
   },
   "src/pages/auth/Login.vue": {
-    "file": "file/Login.b91323fb.js",
+    "file": "file/Login.9f9855e2.js",
     "src": "src/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.45e48e1f.js",
-      "_main.3cbfb2ef.js"
+      "_main.dddc2fa3.js"
     ]
   },
   "src/pages/Admin.vue": {
-    "file": "file/Admin.21e72d7e.js",
+    "file": "file/Admin.59e33fef.js",
     "src": "src/pages/Admin.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ],
     "css": [
-      "file/Admin.ab4ac3f6.css"
+      "file/Admin.9b66b4a5.css"
     ]
   },
   "src/pages/admin/InputDataCandidate.vue": {
-    "file": "file/InputDataCandidate.318906cc.js",
+    "file": "file/InputDataCandidate.e7d48515.js",
     "src": "src/pages/admin/InputDataCandidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_ModalInputCandidatePosition.0a87583e.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ],
     "css": [
-      "file/InputDataCandidate.a728da34.css"
+      "file/InputDataCandidate.5810ce16.css"
+    ]
+  },
+  "_ModalInputCandidatePosition.0a87583e.js": {
+    "file": "file/ModalInputCandidatePosition.0a87583e.js",
+    "imports": [
+      "_main.dddc2fa3.js",
+      "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/Candidate.vue": {
-    "file": "file/Candidate.0507ae79.js",
+    "file": "file/Candidate.26848d06.js",
     "src": "src/pages/admin/Candidate.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/Delegation.vue": {
-    "file": "file/Delegation.7fb452ad.js",
+    "file": "file/Delegation.f3490a89.js",
     "src": "src/pages/admin/Delegation.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ]
   },
-  "src/pages/admin/ChairmanCandidate.vue": {
-    "file": "file/ChairmanCandidate.c7d19ad2.js",
-    "src": "src/pages/admin/ChairmanCandidate.vue",
+  "src/pages/admin/InputDataParticipant.vue": {
+    "file": "file/InputDataParticipant.6b5c6cfc.js",
+    "src": "src/pages/admin/InputDataParticipant.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_ModalInputCandidatePosition.0a87583e.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
+    ],
+    "css": [
+      "file/InputDataParticipant.c6de67c4.css"
     ]
   },
-  "src/pages/admin/FormaturCandidate.vue": {
-    "file": "file/FormaturCandidate.be984478.js",
-    "src": "src/pages/admin/FormaturCandidate.vue",
+  "src/pages/admin/Participant.vue": {
+    "file": "file/Participant.6054d5ab.js",
+    "src": "src/pages/admin/Participant.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ]
   },
   "src/pages/admin/ElectionToken.vue": {
-    "file": "file/ElectionToken.89d061fc.js",
+    "file": "file/ElectionToken.fafd5ccf.js",
     "src": "src/pages/admin/ElectionToken.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main.3cbfb2ef.js",
+      "_main.dddc2fa3.js",
       "_vendor.45e48e1f.js"
     ]
   },
